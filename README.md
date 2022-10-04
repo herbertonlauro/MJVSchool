@@ -11,3 +11,8 @@ https://glysns.gitbook.io/java-basico/ </br>
 https://glysns.gitbook.io/java-basico/maven/introducao </br>
 https://glysns.gitbook.io/java-basico/sintaxe/variaveis </br>
 https://glysns.gitbook.io/java-basico/sintaxe/operadores </br>
+
+## LINKS UTEIS
+ Java Basic Programming : Exercises, Practice, Solution </br>
+ 
+https://www.w3resource.com/java-exercises/basic/index.php
